@@ -1,0 +1,34 @@
+.job-details-container {
+  min-height: 100vh;
+  background: #0f172a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.job-details-card {
+  background: white;
+  width: 100%;
+  max-width: 700px;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+.job-details-card h1 {
+  color: #1e293b;
+}
+
+.description-box {
+  margin-top: 20px;
+}
+
+.apply-btn {
+  margin-top: 20px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
